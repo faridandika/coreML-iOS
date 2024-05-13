@@ -6,8 +6,7 @@
 //
 
 import Foundation
-import CreateML
-import CoreML
+import CreateMLimport CoreML
 
 
 final class HandPoseTrainer {
